@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   com.apple.DownloadAssessment.plist
+   SimplePlugin
+
+   Created by Nicolas Seriot on 14.12.08.
+   Copyright 2008 Sen:te. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+	<key>LSRiskCategorySafe</key>
+<dict>
+	<key>LSRiskCategoryContentTypes</key>
+<array>
+	<string>public.html</string>
+</array>
+</dict>
+</dict>
+</plist>
