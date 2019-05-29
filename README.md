@@ -1,5 +1,4 @@
-JavaDoc
-=======
+
 
 _Legacy OS X Dashboard widget to access Java documentation_
 
